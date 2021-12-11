@@ -1,4 +1,0 @@
-[submodule "schism"]
-	path = schism
-	url = https://github.com/jreniel/schism.git
-	datalad-url = https://github.com/jreniel/schism.git
